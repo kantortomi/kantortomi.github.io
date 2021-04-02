@@ -1,2 +1,2 @@
 [Danfilm](./danfilm)\
-[proba](./proba)
+[proba](kantortomi.github.io/proba)
